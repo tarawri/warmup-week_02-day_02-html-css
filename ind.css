@@ -1,0 +1,57 @@
+body{
+    border-top: 10px solid black;
+    border-bottom: 10px solid black;
+    font-family: sans-serif;
+  
+}
+
+
+.nav-part{
+    text-align: center;
+    margin-top:40px;
+    font-size: 30px;
+}
+.nav-part strong{
+    font-style: italic;
+}
+
+.nav-part a{
+    color:black;
+}
+
+main img{
+    float:right;
+    border: 2px solid black;
+    padding: 5px;
+    width: 200px;
+    height: 200xp;
+    margin-top:15px;
+}
+ main{
+     height:400px;
+     width:80%;
+     margin: 0 auto;
+ }
+ main h3 {
+     font-size: 40px;
+ }
+ main p {
+     margin-bottom: 20px;
+     font-size: 28px;
+ }
+main nav {
+    text-align: center;
+    font-size:28px;
+    margin-top: 30px;
+    font-weight: bold;
+}
+main nav a{
+    color:black;
+
+}
+.n3{
+    text-align: center;
+}
+
+
+
